@@ -116,6 +116,3 @@ func Seidel(mx Matrix, b Vector, eps float64, iterLimit int) (x Vector, iterCoun
 	return
 }
 
-func QrAlgorithm() {
-
-}
